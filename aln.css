@@ -1,0 +1,458 @@
+*{
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 40px;
+    text-align: center;
+    align-items: center;
+}
+
+.header ul {
+    display: flex;
+    gap: 30px;
+    font-size: 20px;
+    list-style: none;
+    margin-left: 700px;
+
+
+}
+
+.header strong  {
+    color: blueviolet ;
+}
+
+.header button  {
+  
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-right: 100px;
+}
+
+.parent {
+    background-color: blueviolet;
+    height: 700px;
+    display: flex;
+}
+
+.main {
+    margin: 70px 50px;
+    color:white;
+    
+    padding: 20px 60px;
+    font-size: 20px;
+    
+ 
+}
+
+.main h1 {
+    font-size: 40px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.main p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.main button {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px ;
+ 
+}
+
+
+.main-left  img {
+    width: 500px;
+    margin-top: 70px;
+    border-radius: 10px;
+    margin-left: 150px;
+    margin-right: 110px;
+ 
+}
+
+
+
+.box img {
+ 
+  margin: 0px 80px;
+  margin-left: 100px;
+ width: 1000px;
+
+ border-radius: 20px;
+ position: relative;
+padding: 20px 50px;
+margin-bottom: 10px;
+
+
+
+}
+
+
+.box1  {
+
+  position: absolute;
+    background-color: white;
+    border-radius: 12px;
+
+    top: 1020px;
+  left: 430px;
+  padding: 10px;
+  margin-right: 100px;
+ 
+  height: 300px;
+  color: black;
+  padding: 10px 20px;
+  
+
+   
+}
+
+
+.box1 h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.box1 p {
+    margin-bottom: 20px;
+}
+
+.box1 button {
+
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    padding: 10px 18px;
+    border-radius: 3px;
+    background-color: white;
+    box-shadow: 0px 2px 3px blueviolet;
+
+}
+
+.box2 {
+    margin: 40px 60px;
+    display: flex;
+}
+
+.box3  img {
+    border-radius: 12px;
+    margin-right: 20px;
+    width: 400px;
+    height: 300px;
+}
+
+.box4  {
+    padding: 20px 100px;
+   margin-right: 20px;
+}
+
+.box4 h1 {
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+.box4 p {
+    margin-bottom: 20px;
+}
+
+.box4 button  {
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    padding: 10px 18px;
+    border-radius: 3px;
+    background-color: white;
+    box-shadow: 0px 2px 3px blueviolet;
+}
+
+.box5 {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 60px;
+}
+
+.box5 button {
+    background-color: blueviolet;
+    color: white;
+    border-radius: 7px;
+   padding: 10px 18px;
+   border: none;
+
+}
+
+.box6  {
+    display: flex;
+    gap: 20px;
+}
+
+
+.numbers {
+    display: flex;
+    margin: 40px 60px;
+}
+
+.one img  {
+margin: 10px 20px ;
+}
+
+.one p {
+    margin-top: 10px ;
+   margin-bottom: 10px;
+}
+
+.one h1 {
+  padding-right: 50px;
+}
+
+
+.bav {
+    margin: 20px 50px;
+    justify-content: space-between;
+    display: flex;
+
+}
+
+.bav button {
+    background-color: blueviolet;
+    color: white;
+    border-radius: 7px;
+   padding: 10px 18px;
+   border: none;
+
+}
+
+
+.last {
+    background-color: blueviolet;
+    padding: 50px 490px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
+.sad {
+    background-color: white;
+ 
+    padding: 10px 100px;
+    border-radius: 8px;
+    border: 2px  solid white;
+    margin-bottom: 30px;
+    margin-top: 20px;
+   
+
+}
+
+.das {
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 30px;
+ border-radius: 10px;
+    border: 1px solid white;
+}
+
+.sax {
+    text-align: center;
+ 
+}
+.sax ul   {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    font-size: 18px;
+    margin-left: 600px;
+    margin-bottom: 20px;
+}
+
+.xas ol {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    margin-left: 650px ;
+    margin-bottom: 20px;
+}
+
+
+.dal {
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.yuuk {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 110px;
+}
+
+.bol {
+    background-color: blueviolet;
+    border-radius: 19px;
+    padding: 7px 7px;
+  
+
+}
+
+.dal p {
+    margin-left: 160px;
+  
+}
+
+.nol {
+ margin: 20px 60px;
+    border-top: 1px solid blueviolet;
+}
+
+.fal {
+    display: flex;
+    gap: 20px;
+}
+
+@media screen and (max-width : 600px) {
+    .header ul {
+        display: none;
+    }
+
+    .header button {
+        display: none;
+    
+   
+    }
+    
+    .main   {
+       font-size: 10px;
+       width: 600px;
+       padding-right: 0px;
+       padding-left: 0px;
+
+    
+    }
+
+    .main-left img {
+        flex-direction: column;
+        width: 300px;
+        margin-left: 10px;
+    
+      
+
+    }
+
+    .parent {
+        flex-direction: column;
+    }
+
+    .box-parent {
+      display: none;
+
+    }
+
+    .box2 {
+        flex-direction: column;
+        font-size: 10px;
+        padding: 0;
+        margin: 10px;
+     background-color: aliceblue;
+        border-radius: 10px;
+        border: 1px solid silver;
+      
+    }
+    .box2 img {
+        width: 350px;
+        margin:10px;
+       
+    }
+
+    .box4 {
+      width: 300px;
+     padding-left: 0px;
+    }
+
+    .box4 {
+      padding-right: 100px;
+    
+    }
+
+  
+
+    .numbers {
+        flex-direction: column;
+        margin: 10px;
+       
+     
+    }
+
+    .one img {
+        width: 350px;
+    
+    }
+
+    .last {
+     margin: 20px;
+       font-size: 0px;
+       width: 400px;
+       height: 500px;
+       padding: 0px;
+       margin-top: 100px;
+
+    }
+
+    .last h1 {
+        font-size: 40px;
+      
+       margin-left: 0px;
+       margin-bottom: 10px;
+       padding: 60px;
+    }
+
+
+    .yuuk {
+        flex-direction: column;
+        margin-left: 40px;
+    }
+
+    .sax ul {
+        margin: 20px;
+        margin-left: 8px;
+        gap: 40px;
+    }
+
+    .xas-bol {
+        margin: 25px;
+     
+    }
+
+    .xas ol  {
+      padding: 0px;
+        align-items: center;
+       margin: 0px;
+       margin-left: 80px;
+    }
+
+    .xas hr {
+       width: 1000px;
+        
+    }
+    .nol{
+        width:420px;
+        margin-left: 0px;
+    }
+
+    .dal p {
+   margin-left: 0px;
+    }
+
+    
+}
